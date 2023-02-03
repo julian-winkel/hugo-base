@@ -1,0 +1,16 @@
+# Configurable
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Hugo Base'
+theme = ['hugo-base']
+googleAnalytics = ""
+
+disableKinds = ['taxonomy', 'term']
+
+[social]
+  twitter = ''
+
+[params]
+  title = 'Hugo Base'
+  description = 'Hugo Base Theme.'
+  images = ['']
