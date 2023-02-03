@@ -1,0 +1,5 @@
+{{ if .Params.noIndex -}}
+  noindex, nofollow
+{{- else -}}
+  index, follow
+{{- end -}}

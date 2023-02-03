@@ -1,0 +1,15 @@
+# theme.toml template for a Hugo theme
+# See https://github.com/gohugoio/hugoThemes#themetoml for an example
+
+name = "Hugo Base"
+license = "MIT"
+licenselink = "https://github.com/julian-winkel/hugo-base/blob/master/LICENSE"
+description = "Basic Hugo HTML boilerplate theme."
+homepage = "http://example.com/"
+tags = []
+features = []
+min_version = "0.41.0"
+
+[author]
+  name = "Julian Winkel"
+  homepage = "https://github.com/julian-winkel"
